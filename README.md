@@ -2,7 +2,7 @@
 
 This repository contains the code, data, and scripts for reproducing the experiments in the paper:
 
-**"KVRM: Registry-Constrained Neural Selection for Verified System Interfaces"**
+**"KVRM: Key Value Response Model"**
 
 ## Paper
 
